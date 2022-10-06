@@ -1,0 +1,27 @@
+.container-image {
+  margin: 0;
+  padding: 0;
+}
+.name-span {
+  color: white;
+  background-color: black;
+  border: 2px solid #4794ff;
+  padding: 10px;
+  font-weight: bolder;
+  border-radius: 7px;
+}
+
+.slogan-span {
+  font-weight: 600;
+  /* background-color: #e0f6ff; */
+  /* border: 0.5px solid #4794ff; */
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 auto 0 5px;
+
+  text-align: center;
+}
+
+img {
+  margin-bottom: 10px;
+}
